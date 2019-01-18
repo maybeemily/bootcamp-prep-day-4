@@ -1,0 +1,20 @@
+camelCase <-- JavaScript
+twoHumpCamel
+
+TitleCase <--C++
+PascalCase
+
+kebob-case <-- file and folder names, webpage names
+fruit-meat-veggie
+
+snake_case <-- SQL, Python 
+
+README <-- magic numbers, odd file names
+
+Farmers rule - if the gate is open, leave it open, 
+if the gate is closed, close it behind you.
+
+Follow the casing of the project or language you are working on 
+Consistancy above all 
+
+
