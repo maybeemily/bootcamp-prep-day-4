@@ -18,9 +18,12 @@ function greet() {
     // display the greeting
 
     var greeting = document.getElementById('greeting');
+    
+    // remove prompt
+    
     greeting.textContent = helloFullName;
 
-    // remove prompt
+
 
 }
 
